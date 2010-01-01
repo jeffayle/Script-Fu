@@ -2,8 +2,8 @@
 Just a collection of gimp scripts I've written. Put them in your `scripts`
 folder.
 
-## Camouflage (camoflage.scm)
-Generates a camouflauge pattern on the current image in the specified
+## Camouflage (camouflage.scm)
+Generates a camouflage pattern on the current image in the specified
 colours (Similar to the camouflage script that comes with gimp, but does
 not create a new image).
 
