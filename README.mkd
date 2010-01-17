@@ -8,3 +8,8 @@ colours (Similar to the camouflage script that comes with gimp, but does
 not create a new image).
 
 Creates menu item `<Image>/Filters/Render/Camouflage`
+
+## Add Glow (glow.scm)
+Creates a glowing outline of the current layer with the foreground colour.
+
+Create menu item `<Image>/Filters/Decor/Add Glow`.
